@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Task</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nome">Nome</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="campos_vazios">O formulário possui campos vazios!</string>
+    <string name="email_cadastrado">Esse e-mail já está cadastrado!</string>
+    <string name="algo_errado_aconteceu">Algo de errado aconteceu!</string>
+    <string name="entrar">Entrar</string>
+    <string name="login_invalido">E-mail e/ou Senha inválidos.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="descricao">Descrição:</string>
+    <string name="descricao_">Descrição</string>
+    <string name="completa">Completa</string>
+    <string name="selecione_a_data">Selecione a data</string>
+    <string name="adicionar_tarefa">Adicionar Tarefa</string>
+    <string name="prioridade">Prioridade:</string>
+    <string name="_00_00_0000">00/00/0000</string>
+    <string name="atualizar_tarefa">Atualizar Tarefa</string>
+    <string name="tarefa_inserida">Tarefa inserida com sucesso!</string>
+    <string name="tarefa_atualizada">Tarefa atualizada com sucesso!</string>
+    <string name="tafera_removida">Tarefa removida com sucesso!</string>
+    <string name="remover_tarefa">Remover tafera</string>
+    <string name="deseja_remover">Você deseja remover a tarefa: %s?</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="remover">Remover</string>
+    <string name="ola_usuario">Olá, usuário!</string>
+    <string name="sexta_30_de_marco">Sexta, 30 de Março</string>
+    <string name="nao_cadastrado">Não cadastrado?</string>
+    <string name="cadastre">Cadastre-se</string>
+    <string name="sair">Sair</string>
+    <string name="pendentes">Pendentes</string>
+    <string name="feitas">Feitas</string>
+</resources>
